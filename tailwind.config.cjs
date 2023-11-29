@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
      fontFamily: {
-        sans: ["'Lora Variable'", 'Lora', "New York", ...defaultTheme.fontFamily.serif],
+        serif: ["'Lora Variable'", 'Lora', "New York", ...defaultTheme.fontFamily.serif],
       },
       
       },
