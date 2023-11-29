@@ -19,4 +19,4 @@ Les habitants, eux, redoutent la perte de leur identité culturelle. _"Avant, to
 
 En définitive, l'influence de Sarah Lanvin, si bénéfique soit-elle au premier regard, soulève le débat sur la capacité des petites villes à gérer le tourisme de masse. Monopoli, jadis petit joyau discret des Pouilles, se trouve à la croisée des chemins, tiraillée entre le désir de prospérité et la préservation de l'essence qui constitue son âme. La ville deviendra-t-elle un avertissement pour d'autres destinations tentées par l'appel des sirènes de la popularité facile ? Seul l'avenir le dira.
 
-**Sarah Lanvin - @sarahlavin**
+*Sarah Lanvin - @sarahlanvin*
